@@ -101,7 +101,6 @@ The program should display the employee details within the specified salary rang
 ---
 
 ### **Question 3: Cursor FOR Loop with Exception Handling**
-
 **Write a PL/SQL program using a cursor FOR loop to retrieve and display all employee names and their department numbers from the `employees` table. Implement exception handling for the following cases:**
 
 1. **NO_DATA_FOUND**: If no employees are found in the database.
