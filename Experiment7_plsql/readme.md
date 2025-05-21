@@ -67,7 +67,6 @@ Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
 ---
 
 ## 4. Write a PL/SQL Program to display the number in Reverse Order
-
 ### Steps:
 - Declare a variable `n` and assign a value (e.g., 1535).
 - Use a loop to extract each digit using modulo and reverse the number.
